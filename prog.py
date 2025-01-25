@@ -20,7 +20,7 @@ print(colorama.Fore.WHITE + "")
 def menu():
     print("[1] Crush a server ")
     print("[2] Russian osint telegram bot ")
-    print("[3] How to access with a ds token")
+    print("[3] How to login with atoken")
     print("[4] IP locator")
     print("[5] Dadda gay")
     print("[0] Exit from here ")
