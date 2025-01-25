@@ -1,0 +1,4 @@
+colorama
+pyfiglet
+os-sys
+requests
